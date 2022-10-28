@@ -47,8 +47,8 @@ public class Lab05vst extends Applet
 
         for ( int x=0; x < 51; x++) {
             g.drawLine(x1, y1, x2, y2);
-            x1 += 20;
-            y2 += 13;
+            x1 += 19;
+            y2 += 12;
 
 
         }
